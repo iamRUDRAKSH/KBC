@@ -24,13 +24,13 @@ This Python script is a quiz game where players are asked a series of questions.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/iamRUDRAKSH/quiz-game.git
+    git clone https://github.com/iamRUDRAKSH/KBC.git
     ```
 
 2. Navigate to the project directory:
 
     ```sh
-    cd quiz-game
+    cd KBC
     ```
 
 ### Usage
@@ -38,7 +38,7 @@ This Python script is a quiz game where players are asked a series of questions.
 Run the Quiz Game script:
 
 ```sh
-python quiz_game.py
+python KBC.py
 ```
 
 Follow the on-screen instructions to play the game.
